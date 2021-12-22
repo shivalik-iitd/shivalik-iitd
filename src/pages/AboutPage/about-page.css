@@ -1,0 +1,16 @@
+.about-page {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.about-page .page-heading {
+	margin: 0px;
+}
+.about-page-content {
+	width: 80%;
+	max-width: 420px;
+	text-align: center;
+	margin-top: 40px;
+	font-size: 1.6rem;
+}
