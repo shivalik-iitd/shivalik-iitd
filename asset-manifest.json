@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shivalik-iitd/static/css/main.248c7ab8.chunk.css",
+    "main.js": "/shivalik-iitd/static/js/main.3a3e8f92.chunk.js",
+    "main.js.map": "/shivalik-iitd/static/js/main.3a3e8f92.chunk.js.map",
+    "runtime-main.js": "/shivalik-iitd/static/js/runtime-main.e58b1d13.js",
+    "runtime-main.js.map": "/shivalik-iitd/static/js/runtime-main.e58b1d13.js.map",
+    "static/js/2.503e64bd.chunk.js": "/shivalik-iitd/static/js/2.503e64bd.chunk.js",
+    "static/js/2.503e64bd.chunk.js.map": "/shivalik-iitd/static/js/2.503e64bd.chunk.js.map",
+    "static/js/3.f54b8b18.chunk.js": "/shivalik-iitd/static/js/3.f54b8b18.chunk.js",
+    "static/js/3.f54b8b18.chunk.js.map": "/shivalik-iitd/static/js/3.f54b8b18.chunk.js.map",
+    "index.html": "/shivalik-iitd/index.html",
+    "static/css/main.248c7ab8.chunk.css.map": "/shivalik-iitd/static/css/main.248c7ab8.chunk.css.map",
+    "static/js/2.503e64bd.chunk.js.LICENSE.txt": "/shivalik-iitd/static/js/2.503e64bd.chunk.js.LICENSE.txt",
+    "static/media/trishul.cdbe4532.png": "/shivalik-iitd/static/media/trishul.cdbe4532.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e58b1d13.js",
+    "static/js/2.503e64bd.chunk.js",
+    "static/css/main.248c7ab8.chunk.css",
+    "static/js/main.3a3e8f92.chunk.js"
+  ]
+}
