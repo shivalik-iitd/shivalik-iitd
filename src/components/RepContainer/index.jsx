@@ -70,7 +70,7 @@ const REP_INFORMATION = [
 			{
 				firstName: "Devang",
 				lastName: "Singh",
-				role: "SAC Secretary",
+				role: "Library Secretary",
 				imgUrl: "https://drive.google.com/file/d/1THNestHiw9TVYeyvSSR-D0tJmJoYAnWQ/view?usp=drivesdk",
 				contact: "9711733868",
 				instiEmail: "cs1200347@cse.iitd.ac.in",
