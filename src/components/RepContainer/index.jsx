@@ -108,7 +108,7 @@ const REP_INFORMATION = [
 				firstName: "Jatin",
 				lastName: "Jangpangi",
 				role: "Spic Macay",
-				imgUrl: "https://drive.google.com/uc?export=view&id=10PIU-_rKx3fe48UDtwjzGvN-lPTtaRO4",
+				imgUrl: "https://drive.google.com/uc?export=view&id=10PzVT5-HwFTUdlDrI9mHNQX-xDs5qeJE",
 				contact: "6398860754",
 				instiEmail: "mt1200811@iitd.ac.in",
 			},
