@@ -288,7 +288,7 @@ const REP_INFORMATION = [
 			},
 			{
 				firstName: "Alwin",
-				lastName: "Alwin",
+				lastName: "",
 				role: "Hockey VC",
 				imgUrl: "https://drive.google.com/uc?export=view&id=1Jz0KK5SCstbm08o-dUepLNESCLWL_NRw",
 				contact: "8146655712",
