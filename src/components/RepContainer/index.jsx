@@ -62,7 +62,7 @@ const REP_INFORMATION = [
 			{
 				firstName: "Nischay",
 				lastName: "Singh",
-				role: "Maintainence Secretary",
+				role: "Maintenance Secretary",
 				imgUrl: "https://drive.google.com/uc?export=view&id=1zL9F3mOUgYIzenZtNVMGdZq6qZ-7ogo9",
 				contact: "8290309237",
 				instiEmail: "ch1190109@iitd.ac.in",
