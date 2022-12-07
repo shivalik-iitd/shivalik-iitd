@@ -4,8 +4,7 @@ import { MdEmail } from "react-icons/md";
 import "./person-card.css";
 
 const PersonCard = ({
-	firstName,
-	lastName,
+	name,
 	role,
 	imgUrl,
 	contact,
@@ -16,7 +15,7 @@ const PersonCard = ({
 			<img src={imgUrl} alt="" />
 			<div className="person-card-details">
 				<div>
-					{firstName} {lastName}
+					{name}
 				</div>
 				<div>{role}</div>
 			</div>

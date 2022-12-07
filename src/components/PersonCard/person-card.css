@@ -1,32 +1,33 @@
 .person-card {
-	width: 350px;
-	display: flex;
-	background-color: var(--theme-light);
-	margin: 10px;
-	padding: 20px;
-	border-radius: 12px;
+  width: 350px;
+  display: flex;
+  background-color: var(--theme-light);
+  margin: 10px;
+  padding: 20px;
+  border-radius: 12px;
 }
 .person-card > img {
-	width: 40px;
-	border-radius: 100px;
-	height: 40px;
-	margin-right: 16px;
+  object-fit: cover;
+  width: 150px;
+  border-radius: 100px;
+  height: 150px;
+  margin-right: 16px;
 }
 
 .person-card-details > div:first-of-type {
-	font-size: 1.6rem;
+  font-size: 1.6rem;
 }
 .person-card-details > div:nth-of-type(2) {
-	font-weight: 300;
+  font-weight: 300;
 }
 .person-card-contact {
-	margin-left: auto;
-	font-size: 1.6rem;
-	height: 100%;
-	justify-content: space-between;
-	display: flex;
-	flex-direction: column;
+  margin-left: auto;
+  font-size: 1.6rem;
+  height: 100%;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
 }
 .person-card-contact a {
-	cursor: pointer;
+  cursor: pointer;
 }

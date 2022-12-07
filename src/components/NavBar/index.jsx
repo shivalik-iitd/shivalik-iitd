@@ -19,14 +19,14 @@ const NAVBAR_OPTIONS = [
 		name: "Student Body",
 		link: "/reps",
 	},
-	{
-		name: "Maintenance Query",
-		link: "/maint",
-	},
-	{
-		name: "Contact Us",
-		link: "/contact",
-	},
+	// {
+	// 	name: "Maintenance Query",
+	// 	link: "/maint",
+	// },
+	// {
+	// 	name: "Contact Us",
+	// 	link: "/contact",
+	// },
 ];
 
 const NavBar = ({ light = false }) => {
