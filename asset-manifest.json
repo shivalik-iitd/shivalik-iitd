@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/shivalik-iitd/static/css/main.4e246c9e.css",
-    "main.js": "/shivalik-iitd/static/js/main.0d408eb5.js",
+    "main.js": "/shivalik-iitd/static/js/main.e544a02e.js",
     "static/js/787.f6c5e6c6.chunk.js": "/shivalik-iitd/static/js/787.f6c5e6c6.chunk.js",
     "static/media/trishul.png": "/shivalik-iitd/static/media/trishul.cdbe4532c09a6e51abf2.png",
     "index.html": "/shivalik-iitd/index.html",
     "main.4e246c9e.css.map": "/shivalik-iitd/static/css/main.4e246c9e.css.map",
-    "main.0d408eb5.js.map": "/shivalik-iitd/static/js/main.0d408eb5.js.map",
+    "main.e544a02e.js.map": "/shivalik-iitd/static/js/main.e544a02e.js.map",
     "787.f6c5e6c6.chunk.js.map": "/shivalik-iitd/static/js/787.f6c5e6c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e246c9e.css",
-    "static/js/main.0d408eb5.js"
+    "static/js/main.e544a02e.js"
   ]
 }
